@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    background:linear-gradient(135deg,rgb(83, 83, 226),purple);
+    width: 100%;
+    min-height: 100vh;
+    /* padding-left:200px ; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.app-container h2{
+    padding-bottom: 20px;
+    font-size: 45px;
+    color: rgb(234, 234, 234);
+
+}
+.calculation {
+    display: flex;
+height: 80px;
+max-width: 500px;
+background: rgb(205, 193, 233);
+align-items: center;
+justify-content: space-evenly;
+border-radius: 5px;
+gap: 10px;   
+
+}
+.calculation input{
+    padding: 10px;
+    width: 300px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.calculation button{
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 17px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    background: rgb(216, 177, 46);
+    cursor: pointer;
+}
+.report{
+    margin-top: 20px;
+    color:white;
+    font-size: 20px;
+
+}
+.report span{
+    color: rgb(216, 177, 46);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+@media(min-width:900px){
+    .container{
+        padding-left:200px ;
+        position: relative;
+    }
+ 
+}
+@media(max-width:900px){
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .calculation{
+        width: 380px;
+        justify-content: space-evenly;
+
+    }
+    .calculation input{
+        width: 250px;
+
+    }
+    .calculation button{
+        font-size: 16px;
+    }
+    
+}
+@media (max-width:600px){
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .app-container h2{
+        font-size: 30px;
+    }
+    .calculation{
+        width: 380px;
+        justify-content: space-evenly;
+
+    }
+    .calculation input{
+        width: 200px;
+
+    }
+    .calculation button{
+        font-size: 16px;
+        font-weight: 1;
+
+    }
+}

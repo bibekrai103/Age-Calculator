@@ -16,6 +16,10 @@ A simple JavaScript application that calculates your exact age in years, months,
 
 ---
 
+![Demo](demo.gif)
+
+---
+
 ## 🛠 Tech Stack
 
 | Technology | Purpose |

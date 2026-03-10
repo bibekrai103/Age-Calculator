@@ -15,10 +15,10 @@ A simple JavaScript application that calculates your exact age in years, months,
 - Displays time until next birthday
 
 ---
-
-![Demo](demo.gif)
-
----
+- [x] Age calculation
+- [x] Date picker input
+- [ ] Dark mode
+- [ ] Next birthday countdown
 
 ## 🛠 Tech Stack
 
@@ -28,6 +28,7 @@ A simple JavaScript application that calculates your exact age in years, months,
 | CSS | Styling |
 | JavaScript | Logic |
 
+---
 ## How to Run
 
 1.Clone Repository

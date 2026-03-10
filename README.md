@@ -14,10 +14,10 @@ A simple age calculation application with javascript.
 ## Technologies Used 
 -HTML
 -CSS
-Javascript
+-Javascript
 
 ## How to Run
-1.Clone the repository
+1.Clone the repository,
 2.Open index.html in your browser
 
 ## Author

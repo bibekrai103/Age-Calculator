@@ -39,3 +39,12 @@ A simple JavaScript application that calculates your exact age in years, months,
 ## Author
 
 Bibek Rai
+
+---
+# Age Calculator
+
+![GitHub stars](https://img.shields.io/github/stars/bibekrai103/Age-Calculator)
+![GitHub forks](https://img.shields.io/github/forks/bibekrai103/Age-Calculator)
+![License](https://img.shields.io/github/license/bibekrai103/Age-Calculator)
+
+A simple JavaScript app that calculates your exact age.

@@ -22,3 +22,6 @@ Javascript
 
 ## Author
 Bibek Rai/ pirate_ninja
+![GitHub stars](https://img.shields.io/github/stars/username/repo)
+![GitHub forks](https://img.shields.io/github/forks/username/repo)
+![License](https://img.shields.io/github/license/username/repo)

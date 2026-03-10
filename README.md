@@ -12,13 +12,13 @@ A simple age calculation application with javascript.
 - Instant age calculation
 
 ## Technologies Used 
--HTML
--CSS
--Javascript
+HTML
+CSS
+Javascript
 
 ## How to Run
-1.Clone the repository,
-2.Open index.html in your browser
+-Clone the repository,
+-Open index.html in your browser
 
 ## Author
 Bibek Rai/ pirate_ninja

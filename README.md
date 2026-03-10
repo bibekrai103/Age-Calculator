@@ -1,20 +1,23 @@
-# AGE CALCULATOR APP
-A simple age calculation application with javascript.
+<h1 align="center">🎂 Age Calculator</h1>
 
-**Note: Provide your DOB in A.D
+<p align="center">
+A simple JavaScript application that calculates your exact age in years, months, and days.
+</p>
 
-## Features
+---
+
+## 🚀 Features
+
 - Enter date of birth manually
-- Select date of birth using a calendar picker
-- Calculates accurate age
-- Displays age in years, months, and days
-- Simple and user-friendly interface
-- Instant age calculation
+- Select date from calendar
+- Calculate exact age
+- Shows years, months, and days
+- Displays time until next birthday
 
-## Technologies Used 
-HTML
-CSS
-Javascript
+---
+
+## 🛠 Tech Stack
+
 | Technology | Purpose |
 |-----------|--------|
 | HTML | Structure |
@@ -22,13 +25,12 @@ Javascript
 | JavaScript | Logic |
 
 ## How to Run
--Clone the repository,
--Open index.html in your browser
+
+1.Clone Repository
+2.Open HTML file in your browser
+
+---
 
 ## Author
-Bibek Rai/ pirate_ninja
 
-
-![GitHub stars](https://img.shields.io/github/stars/bibekrai103/repo)
-![GitHub forks](https://img.shields.io/github/forks/bibekrai103/repo)
-![License](https://img.shields.io/github/license/bibekrai103/repo)
+Bibek Rai

@@ -15,6 +15,11 @@ A simple age calculation application with javascript.
 HTML
 CSS
 Javascript
+| Technology | Purpose |
+|-----------|--------|
+| HTML | Structure |
+| CSS | Styling |
+| JavaScript | Logic |
 
 ## How to Run
 -Clone the repository,
